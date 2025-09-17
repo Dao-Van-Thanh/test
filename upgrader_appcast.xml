@@ -9,7 +9,7 @@
       <title>Version 3.0.0</title>
       <description>Test release 3.0.0 — nội dung thay đổi hehe</description>
       <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
-      <!-- sparkle:version nên là versionName (semantic), ví dụ "1.0.0" -->
+      <!-- sparkle:version nên là versionName (semantic), ví dụ "3.0.0" -->
       <enclosure url="https://play.google.com/store/apps/details?id=com.mbbank.merchantapp"
                  sparkle:version="3.0.0"
                  sparkle:os="android" />
