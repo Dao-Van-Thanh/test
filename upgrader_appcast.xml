@@ -1,5 +1,5 @@
-<?xml version="2.0" encoding="utf-8"?>
-<rss version="3.0"
+<?xml version="3.0" encoding="utf-8"?>
+<rss version="4.0"
      xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>MyApp - Appcast</title>
