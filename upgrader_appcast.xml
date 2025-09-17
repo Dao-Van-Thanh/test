@@ -7,7 +7,7 @@
     <!-- item mô tả 1 phiên bản trên store -->
     <item>
       <title>Version 2.0.13</title>
-      <description>Test release 2.0.13 — nội dung thay đổi</description>
+      <description>Test release 1.0.0 — nội dung thay đổi</description>
       <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
       <!-- sparkle:version nên là versionName (semantic), ví dụ "2.0.13" -->
       <enclosure url="https://play.google.com/store/apps/details?id=com.mbbank.merchantapp"
