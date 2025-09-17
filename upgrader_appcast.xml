@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>MyApp - Appcast</title>
+
+    <!-- item mô tả 1 phiên bản trên store -->
+    <item>
+      <title>Version 2.0.13</title>
+      <description>Test release 2.0.13 — nội dung thay đổi</description>
+      <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
+      <!-- sparkle:version nên là versionName (semantic), ví dụ "2.0.13" -->
+      <enclosure url="https://play.google.com/store/apps/details?id=com.mbbank.merchantapp"
+                 sparkle:version="2.0.13"
+                 sparkle:os="android" />
+    </item>
+
+    <!-- bạn có thể thêm nhiều <item> cho nhiều phiên bản -->
+  </channel>
+</rss>
